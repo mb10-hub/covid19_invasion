@@ -1,0 +1,3 @@
+([('alien',
+   '/Users/marcobarragan/PycharmProjects/Alien_Invasion/dist/alien',
+   'EXECUTABLE')],)
